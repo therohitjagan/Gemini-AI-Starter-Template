@@ -40,7 +40,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gemini-ai-starter-template.git
+   git clone https://github.com/therohitjagan/Gemini-AI-Starter-Template.git
    cd gemini-ai-starter-template
    ```
 
@@ -248,8 +248,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ Star this repo if you found it helpful!
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Rohit Jagan](https://github.com/therohitjagan)
 
-[Report Bug](https://github.com/yourusername/gemini-ai-starter-template/issues) • [Request Feature](https://github.com/yourusername/gemini-ai-starter-template/issues)
+[Report Bug](https://github.com/therohitjagan/Gemini-AI-Starter-Template/issues) • [Request Feature](https://github.com/therohitjagan/Gemini-AI-Starter-Template/issues)
 
 </div>
