@@ -11,7 +11,7 @@
 
 *Powered by Google Gemini's cutting-edge generative AI models*
 
-[Live Demo](#) • [Installation](#-installation) • [Documentation](#-documentation)
+[Live Demo](https://gemini-ai-starter-template.vercel.app/) • [Installation](#-installation) • [Documentation](#-documentation)
 
 </div>
 
