@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Starter Template",
+  "description": "A developer-focused starter template for generating images with Gemini Nano Banana and videos with Gemini Veo 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
